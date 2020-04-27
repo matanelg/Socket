@@ -1,0 +1,11 @@
+﻿  Screen.cpp
+E:\Snake Game Final Version\Snake Game Client Side\Snake Game Client Side\Screen.cpp(76,17): warning C4018: '>': signed/unsigned mismatch
+  Source.cpp
+E:\Snake Game Final Version\Snake Game Client Side\Snake Game Client Side\Source.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Snake Game Final Version\Snake Game Client Side\Snake Game Client Side\Source.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 431 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Snake Game Client Side.vcxproj -> E:\Snake Game Final Version\Snake Game Client Side\Release\Snake Game Client Side.exe

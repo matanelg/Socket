@@ -31,9 +31,9 @@ In one comuter open your cmd and get your local ip address (ipconfig command) th
 ### Step 2
 On the other computer open Snake Game Client Side.exe and input the same ip address and port like you did in step one.
 
-<span style="color: red">Be aware the apps will only work for Windows users.</span>.
+<span style="color:red">*Be aware the apps will only work for Windows users*.</span>
 
-​<span style="color: red">Please note that on both computers you will need to authorize access to the executable files through the firewall.</span>.
+​<span style="color:red">Please note that on both computers you will need to authorize access to the executable files through the firewall.</span>
 
 
 ## Performance

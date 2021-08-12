@@ -2,17 +2,14 @@
 
 ## Summary
 This project show how to create a Snake game and play it on two computer screens.<br />
-Both computers are on local network and the communication between them will be via Ethernet cable/ Wi-Fi..<br />
+Both computers are on local network and the communication between them will be via<br /> Ethernet cable/ Wi-Fi.
 
-The code for this project uses the following:
-
+### The code for this project uses the following:
 - Visual Studio 2019 platform.
 - OOP ( Object-Oriented Programming ).
 - Winsock library ( Windows Libraries ).
 - Socket Static Library ( Created to reduce code lines ).
 - SDL2 ( Graphic Library ).
-
-Be aware the apps will only work for Windows users.
 
 <p align="center">
   <img src="https://github.com/matanelg/socket/blob/master/files/soc.png">
@@ -34,7 +31,9 @@ In one comuter open your cmd and get your local ip address (ipconfig command) th
 ### Step 2
 On the other computer open Snake Game Client Side.exe and input the same ip address and port like you did in step one.
 
-​Please note that on both computers you will need to authorize access to the executable files through the firewall.
+<span style="color: red">Be aware the apps will only work for Windows users.</span>.
+
+​<span style="color: red">Please note that on both computers you will need to authorize access to the executable files through the firewall.</span>.
 
 
 ## Performance
